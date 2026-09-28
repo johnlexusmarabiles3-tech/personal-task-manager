@@ -22,7 +22,7 @@ MySQL
 ## Output
 
 ### User Interface
-![UI Output](screenshots/ui-output.png)
+<img width="1917" height="1198" alt="ui-output" src="https://github.com/user-attachments/assets/006be0dd-f2f0-47f9-9ea8-0fd9ff72f0ec" />
 
 ### Database
-![Database Output](screenshots/database-output.png)
+<img width="1917" height="1198" alt="database-output" src="https://github.com/user-attachments/assets/e15d3b86-8f70-4cd3-a9fd-aeeb8c033a18" />
