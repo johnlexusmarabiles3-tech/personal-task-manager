@@ -1,9 +1,9 @@
 # Personal Task Manager (Laravel Mini Project)
 
 Project Code: WST21-PM-2026-SF
-Student Name: **[YOUR FULL NAME HERE]**
-Course & Year: **[YOUR COURSE & YEAR HERE]**
-Database Used: **MySQL** (SQLite also supported as a zero-config alternative — see below)
+Student Name: MARABILES, JOHN LEXUS D. 
+Course & Year: BSIT-2 SECTION 8
+Database Used: MySQL
 
 ## Features
 - Add Task
@@ -59,7 +59,7 @@ cd YOUR-REPO
 ```
 
 ### 2. Install PHP dependencies
-```bash
+```b
 composer install
 ```
 
