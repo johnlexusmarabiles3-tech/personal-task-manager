@@ -21,3 +21,8 @@ MySQL
 
 ## Output
 
+### User Interface
+![UI Output](screenshots/ui-output.png)
+
+### Database
+![Database Output](screenshots/database-output.png)
